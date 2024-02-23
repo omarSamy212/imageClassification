@@ -9,8 +9,8 @@ ipython
 omegaconf
 opencv-python-headless==4.5.5.64
 opendatasets
-packaging>=22.0dev,<=21.3
-pandas<1.6.0dev0,>=1.3
+packaging>=22.0
+pandas
 plotly
 pre-commit
 pycocoevalcap
